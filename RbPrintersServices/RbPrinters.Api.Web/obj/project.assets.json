@@ -12557,11 +12557,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Projects\\RbPrinters\\RbPrinters.Api.Web\\RbPrinters.Api.Web.csproj",
+      "projectUniqueName": "F:\\Projects\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.Web\\RbPrinters.Api.Web.csproj",
       "projectName": "RbPrinters.Api.Web",
-      "projectPath": "F:\\Projects\\RbPrinters\\RbPrinters.Api.Web\\RbPrinters.Api.Web.csproj",
+      "projectPath": "F:\\Projects\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.Web\\RbPrinters.Api.Web.csproj",
       "packagesPath": "C:\\Users\\kanhaiya\\.nuget\\packages\\",
-      "outputPath": "F:\\Projects\\RbPrinters\\RbPrinters.Api.Web\\obj\\",
+      "outputPath": "F:\\Projects\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12580,17 +12580,17 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "F:\\Projects\\RbPrinters\\RbPrinters.Api.BLL\\RbPrinters.Api.BLL.csproj": {
-              "projectPath": "F:\\Projects\\RbPrinters\\RbPrinters.Api.BLL\\RbPrinters.Api.BLL.csproj"
+            "F:\\Projects\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.BLL\\RbPrinters.Api.BLL.csproj": {
+              "projectPath": "F:\\Projects\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.BLL\\RbPrinters.Api.BLL.csproj"
             },
-            "F:\\Projects\\RbPrinters\\RbPrinters.Api.DAL\\RbPrinters.Api.DAL.csproj": {
-              "projectPath": "F:\\Projects\\RbPrinters\\RbPrinters.Api.DAL\\RbPrinters.Api.DAL.csproj"
+            "F:\\Projects\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.DAL\\RbPrinters.Api.DAL.csproj": {
+              "projectPath": "F:\\Projects\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.DAL\\RbPrinters.Api.DAL.csproj"
             },
-            "F:\\Projects\\RbPrinters\\RbPrinters.Api.Repositories\\RbPrinters.Api.Repositories.csproj": {
-              "projectPath": "F:\\Projects\\RbPrinters\\RbPrinters.Api.Repositories\\RbPrinters.Api.Repositories.csproj"
+            "F:\\Projects\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.Repositories\\RbPrinters.Api.Repositories.csproj": {
+              "projectPath": "F:\\Projects\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.Repositories\\RbPrinters.Api.Repositories.csproj"
             },
-            "F:\\Projects\\RbPrinters\\RbPrinters.Api.Services\\RbPrinters.Api.Services.csproj": {
-              "projectPath": "F:\\Projects\\RbPrinters\\RbPrinters.Api.Services\\RbPrinters.Api.Services.csproj"
+            "F:\\Projects\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.Services\\RbPrinters.Api.Services.csproj": {
+              "projectPath": "F:\\Projects\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.Services\\RbPrinters.Api.Services.csproj"
             }
           }
         }

@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Projects\\RbPrinters\\RbPrinters.Api.Common\\RbPrinters.Api.Common.csproj",
+      "projectUniqueName": "F:\\Projects\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.Common\\RbPrinters.Api.Common.csproj",
       "projectName": "RbPrinters.Api.Common",
-      "projectPath": "F:\\Projects\\RbPrinters\\RbPrinters.Api.Common\\RbPrinters.Api.Common.csproj",
+      "projectPath": "F:\\Projects\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.Common\\RbPrinters.Api.Common.csproj",
       "packagesPath": "C:\\Users\\kanhaiya\\.nuget\\packages\\",
-      "outputPath": "F:\\Projects\\RbPrinters\\RbPrinters.Api.Common\\obj\\",
+      "outputPath": "F:\\Projects\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

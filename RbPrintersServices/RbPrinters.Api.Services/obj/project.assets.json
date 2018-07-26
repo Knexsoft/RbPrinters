@@ -2197,11 +2197,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Projects\\RbPrinters\\RbPrinters.Api.Services\\RbPrinters.Api.Services.csproj",
+      "projectUniqueName": "F:\\Projects\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.Services\\RbPrinters.Api.Services.csproj",
       "projectName": "RbPrinters.Api.Services",
-      "projectPath": "F:\\Projects\\RbPrinters\\RbPrinters.Api.Services\\RbPrinters.Api.Services.csproj",
+      "projectPath": "F:\\Projects\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.Services\\RbPrinters.Api.Services.csproj",
       "packagesPath": "C:\\Users\\kanhaiya\\.nuget\\packages\\",
-      "outputPath": "F:\\Projects\\RbPrinters\\RbPrinters.Api.Services\\obj\\",
+      "outputPath": "F:\\Projects\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -2220,8 +2220,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "F:\\Projects\\RbPrinters\\RbPrinters.Api.Contracts\\RbPrinters.Api.Contracts.csproj": {
-              "projectPath": "F:\\Projects\\RbPrinters\\RbPrinters.Api.Contracts\\RbPrinters.Api.Contracts.csproj"
+            "F:\\Projects\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.Contracts\\RbPrinters.Api.Contracts.csproj": {
+              "projectPath": "F:\\Projects\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.Contracts\\RbPrinters.Api.Contracts.csproj"
             }
           }
         }
