@@ -10,6 +10,7 @@ import { AppLayoutComponent } from '../_layout/app-layout/app-layout.component';
 import { AppHeaderComponent } from '../_layout/app-header/app-header.component';
 import { LoginComponent } from '../Login/login.component';
 import { DashboardComponent } from '../Dashboard/dashboard.component';
+import { ProductWeddingCardComponent } from '../Products/WeddingCard/Products.WeddingCard.Component';
 
 @NgModule({
   declarations: [
@@ -17,7 +18,8 @@ import { DashboardComponent } from '../Dashboard/dashboard.component';
     AppLayoutComponent,
     AppHeaderComponent,
     LoginComponent,
-    DashboardComponent
+    DashboardComponent,
+    ProductWeddingCardComponent
   ],
   imports: [
     BrowserModule.withServerTransition({ appId: 'ng-cli-universal' }),
