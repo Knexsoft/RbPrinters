@@ -11,10 +11,9 @@ import { AppLayoutComponent } from '../_layout/app-layout/app-layout.component';
 import { AppHeaderComponent } from '../_layout/app-header/app-header.component';
 import { LoginComponent } from '../Login/login.component';
 import { DashboardComponent } from '../Dashboard/dashboard.component';
-import { ProductWeddingCardComponent } from '../Products/WeddingCard/Products.WeddingCard.Component';
 import { AppSidebarComponent } from '../_layout/app-sidebar/app-sidebar.component';
 import { AppFooterCpmponent } from '../_layout/app-footer/app-footer.component';
-import { HomeComponent } from '../Pages/home/home.component';
+import { ServicesWeddingCardComponent } from '../Services/WeddingCard/Services.WeddingCard.Component';
 
 @NgModule({
   declarations: [
@@ -23,10 +22,9 @@ import { HomeComponent } from '../Pages/home/home.component';
     AppHeaderComponent,
     LoginComponent,
     DashboardComponent,
-    ProductWeddingCardComponent,
+    ServicesWeddingCardComponent,
     AppSidebarComponent,
-    AppFooterCpmponent,
-    HomeComponent
+    AppFooterCpmponent
   ],
   imports: [
     BrowserModule.withServerTransition({ appId: 'ng-cli-universal' }),

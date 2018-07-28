@@ -6,3 +6,7 @@
   min-height: 100%;
   width: 246px;
 }
+
+.sidebar-menu {
+  margin-top:-45px;
+}
