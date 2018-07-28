@@ -26,22 +26,27 @@
   <ItemGroup>
     <None Remove="ClientApp\src\app\Dashboard\dashboard.component.ts" />
     <None Remove="ClientApp\src\app\Login\login.component.ts" />
+    <None Remove="ClientApp\src\app\Pages\home\home.component.ts" />
     <None Remove="ClientApp\src\app\Products\WeddingCard\Products.WeddingCard.Component.ts" />
+    <None Remove="ClientApp\src\app\_layout\app-footer\app-footer.component.ts" />
     <None Remove="ClientApp\src\app\_layout\app-header\app-header.component.ts" />
     <None Remove="ClientApp\src\app\Shared\app.routing.ts" />
+    <None Remove="ClientApp\src\app\_layout\app-sidebar\app-sidebar.component.ts" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="ClientApp\src\assets\css\" />
     <Folder Include="ClientApp\src\services\" />
   </ItemGroup>
 
   <ItemGroup>
     <TypeScriptCompile Include="ClientApp\src\app\Dashboard\dashboard.component.ts" />
     <TypeScriptCompile Include="ClientApp\src\app\Login\login.component.ts" />
+    <TypeScriptCompile Include="ClientApp\src\app\Pages\home\home.component.ts" />
     <TypeScriptCompile Include="ClientApp\src\app\Products\WeddingCard\Products.WeddingCard.Component.ts" />
+    <TypeScriptCompile Include="ClientApp\src\app\_layout\app-footer\app-footer.component.ts" />
     <TypeScriptCompile Include="ClientApp\src\app\_layout\app-header\app-header.component.ts" />
     <TypeScriptCompile Include="ClientApp\src\app\Shared\app.routing.ts" />
+    <TypeScriptCompile Include="ClientApp\src\app\_layout\app-sidebar\app-sidebar.component.ts" />
   </ItemGroup>
 
   <Target Name="DebugEnsureNodeEnv" BeforeTargets="Build" Condition=" '$(Configuration)' == 'Debug' And !Exists('$(SpaRoot)node_modules') ">

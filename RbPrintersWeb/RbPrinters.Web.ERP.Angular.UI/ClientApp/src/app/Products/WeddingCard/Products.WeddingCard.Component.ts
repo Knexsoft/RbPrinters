@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-login',
+  selector: 'app-product-weddingCard',
   templateUrl: './Products.WeddingCard.Component.html'
 })
 export class ProductWeddingCardComponent implements OnInit {

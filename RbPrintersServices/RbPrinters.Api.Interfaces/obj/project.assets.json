@@ -681,23 +681,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kanhaiya\\.nuget\\packages\\": {},
+    "C:\\Users\\MADAN CHOUDHARY\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Projects\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.Interfaces\\RbPrinters.Api.Interfaces.csproj",
+      "projectUniqueName": "E:\\Project\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.Interfaces\\RbPrinters.Api.Interfaces.csproj",
       "projectName": "RbPrinters.Api.Interfaces",
-      "projectPath": "F:\\Projects\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.Interfaces\\RbPrinters.Api.Interfaces.csproj",
-      "packagesPath": "C:\\Users\\kanhaiya\\.nuget\\packages\\",
-      "outputPath": "F:\\Projects\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.Interfaces\\obj\\",
+      "projectPath": "E:\\Project\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.Interfaces\\RbPrinters.Api.Interfaces.csproj",
+      "packagesPath": "C:\\Users\\MADAN CHOUDHARY\\.nuget\\packages\\",
+      "outputPath": "E:\\Project\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.Interfaces\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\kanhaiya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\MADAN CHOUDHARY\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

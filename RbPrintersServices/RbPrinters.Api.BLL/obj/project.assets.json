@@ -2210,23 +2210,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kanhaiya\\.nuget\\packages\\": {},
+    "C:\\Users\\MADAN CHOUDHARY\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Projects\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.BLL\\RbPrinters.Api.BLL.csproj",
+      "projectUniqueName": "E:\\Project\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.BLL\\RbPrinters.Api.BLL.csproj",
       "projectName": "RbPrinters.Api.BLL",
-      "projectPath": "F:\\Projects\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.BLL\\RbPrinters.Api.BLL.csproj",
-      "packagesPath": "C:\\Users\\kanhaiya\\.nuget\\packages\\",
-      "outputPath": "F:\\Projects\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.BLL\\obj\\",
+      "projectPath": "E:\\Project\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.BLL\\RbPrinters.Api.BLL.csproj",
+      "packagesPath": "C:\\Users\\MADAN CHOUDHARY\\.nuget\\packages\\",
+      "outputPath": "E:\\Project\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.BLL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\kanhaiya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\MADAN CHOUDHARY\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2239,11 +2239,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "F:\\Projects\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.Contracts\\RbPrinters.Api.Contracts.csproj": {
-              "projectPath": "F:\\Projects\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.Contracts\\RbPrinters.Api.Contracts.csproj"
+            "E:\\Project\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.Contracts\\RbPrinters.Api.Contracts.csproj": {
+              "projectPath": "E:\\Project\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.Contracts\\RbPrinters.Api.Contracts.csproj"
             },
-            "F:\\Projects\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.Services\\RbPrinters.Api.Services.csproj": {
-              "projectPath": "F:\\Projects\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.Services\\RbPrinters.Api.Services.csproj"
+            "E:\\Project\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.Services\\RbPrinters.Api.Services.csproj": {
+              "projectPath": "E:\\Project\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.Services\\RbPrinters.Api.Services.csproj"
             }
           }
         }

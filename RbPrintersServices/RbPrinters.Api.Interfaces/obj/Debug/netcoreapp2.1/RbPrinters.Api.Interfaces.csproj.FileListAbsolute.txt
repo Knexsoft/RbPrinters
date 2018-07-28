@@ -7,3 +7,12 @@ F:\Projects\RbPrinters\RbPrinters.Api.Interfaces\obj\Debug\netcoreapp2.1\RbPrint
 F:\Projects\RbPrinters\RbPrinters.Api.Interfaces\obj\Debug\netcoreapp2.1\RbPrinters.Api.Interfaces.AssemblyInfo.cs
 F:\Projects\RbPrinters\RbPrinters.Api.Interfaces\obj\Debug\netcoreapp2.1\RbPrinters.Api.Interfaces.dll
 F:\Projects\RbPrinters\RbPrinters.Api.Interfaces\obj\Debug\netcoreapp2.1\RbPrinters.Api.Interfaces.pdb
+E:\Project\RbPrinters\RbPrintersServices\RbPrinters.Api.Interfaces\bin\Debug\netcoreapp2.1\RbPrinters.Api.Interfaces.deps.json
+E:\Project\RbPrinters\RbPrintersServices\RbPrinters.Api.Interfaces\bin\Debug\netcoreapp2.1\RbPrinters.Api.Interfaces.dll
+E:\Project\RbPrinters\RbPrintersServices\RbPrinters.Api.Interfaces\bin\Debug\netcoreapp2.1\RbPrinters.Api.Interfaces.pdb
+E:\Project\RbPrinters\RbPrintersServices\RbPrinters.Api.Interfaces\obj\Debug\netcoreapp2.1\RbPrinters.Api.Interfaces.csprojAssemblyReference.cache
+E:\Project\RbPrinters\RbPrintersServices\RbPrinters.Api.Interfaces\obj\Debug\netcoreapp2.1\RbPrinters.Api.Interfaces.csproj.CoreCompileInputs.cache
+E:\Project\RbPrinters\RbPrintersServices\RbPrinters.Api.Interfaces\obj\Debug\netcoreapp2.1\RbPrinters.Api.Interfaces.AssemblyInfoInputs.cache
+E:\Project\RbPrinters\RbPrintersServices\RbPrinters.Api.Interfaces\obj\Debug\netcoreapp2.1\RbPrinters.Api.Interfaces.AssemblyInfo.cs
+E:\Project\RbPrinters\RbPrintersServices\RbPrinters.Api.Interfaces\obj\Debug\netcoreapp2.1\RbPrinters.Api.Interfaces.dll
+E:\Project\RbPrinters\RbPrintersServices\RbPrinters.Api.Interfaces\obj\Debug\netcoreapp2.1\RbPrinters.Api.Interfaces.pdb

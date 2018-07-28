@@ -29,7 +29,6 @@ E:\Project\RbPrinters\RbPrintersWeb\RbPrinters.Web.ERP.Angular.UI\bin\Debug\netc
 E:\Project\RbPrinters\RbPrintersWeb\RbPrinters.Web.ERP.Angular.UI\bin\Debug\netcoreapp2.1\RbPrinters.Web.ERP.Angular.UI.pdb
 E:\Project\RbPrinters\RbPrintersWeb\RbPrinters.Web.ERP.Angular.UI\bin\Debug\netcoreapp2.1\RbPrinters.Web.ERP.Angular.UI.Views.dll
 E:\Project\RbPrinters\RbPrintersWeb\RbPrinters.Web.ERP.Angular.UI\bin\Debug\netcoreapp2.1\RbPrinters.Web.ERP.Angular.UI.Views.pdb
-E:\Project\RbPrinters\RbPrintersWeb\RbPrinters.Web.ERP.Angular.UI\obj\Debug\netcoreapp2.1\RbPrinters.Web.ERP.Angular.UI.csprojAssemblyReference.cache
 E:\Project\RbPrinters\RbPrintersWeb\RbPrinters.Web.ERP.Angular.UI\obj\Debug\netcoreapp2.1\RbPrinters.Web.ERP.Angular.UI.csproj.CoreCompileInputs.cache
 E:\Project\RbPrinters\RbPrintersWeb\RbPrinters.Web.ERP.Angular.UI\obj\Debug\netcoreapp2.1\RbPrinters.Web.ERP.Angular.UI.RazorAssemblyInfo.cache
 E:\Project\RbPrinters\RbPrintersWeb\RbPrinters.Web.ERP.Angular.UI\obj\Debug\netcoreapp2.1\RbPrinters.Web.ERP.Angular.UI.RazorAssemblyInfo.cs
@@ -46,3 +45,4 @@ E:\Project\RbPrinters\RbPrintersWeb\RbPrinters.Web.ERP.Angular.UI\obj\Debug\netc
 E:\Project\RbPrinters\RbPrintersWeb\RbPrinters.Web.ERP.Angular.UI\obj\Debug\netcoreapp2.1\RbPrinters.Web.ERP.Angular.UI.dll
 E:\Project\RbPrinters\RbPrintersWeb\RbPrinters.Web.ERP.Angular.UI\obj\Debug\netcoreapp2.1\RbPrinters.Web.ERP.Angular.UI.pdb
 E:\Project\RbPrinters\RbPrintersWeb\RbPrinters.Web.ERP.Angular.UI\obj\Debug\netcoreapp2.1\RbPrinters.Web.ERP.Angular.UI.csproj.CopyComplete
+E:\Project\RbPrinters\RbPrintersWeb\RbPrinters.Web.ERP.Angular.UI\obj\Debug\netcoreapp2.1\RbPrinters.Web.ERP.Angular.UI.csprojAssemblyReference.cache

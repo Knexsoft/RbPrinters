@@ -5,6 +5,7 @@ import { LoginComponent } from '../Login/login.component';
 
 //Products
 import { ProductWeddingCardComponent } from '../Products/WeddingCard/Products.WeddingCard.Component';
+import { HomeComponent } from '../Pages/home/home.component';
 
 
 const appRoutes: Routes = [
@@ -27,7 +28,9 @@ const appRoutes: Routes = [
     children: [
       { path: '', redirectTo: 'dashboard', pathMatch: 'full' },
       { path: 'dashboard', component: DashboardComponent },
-      { path: 'weddingcards', component: ProductWeddingCardComponent }
+      { path: 'weddingcards', component: ProductWeddingCardComponent },
+      { path: 'home', component: HomeComponent }
+
     ]
   },
 
