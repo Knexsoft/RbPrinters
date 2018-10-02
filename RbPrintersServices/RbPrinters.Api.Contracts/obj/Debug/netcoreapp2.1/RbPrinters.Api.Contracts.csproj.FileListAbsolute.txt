@@ -26,3 +26,17 @@ E:\Project\RbPrinters\RbPrintersServices\RbPrinters.Api.Contracts\obj\Debug\netc
 E:\Project\RbPrinters\RbPrintersServices\RbPrinters.Api.Contracts\obj\Debug\netcoreapp2.1\RbPrinters.Api.Contracts.csproj.CopyComplete
 E:\Project\RbPrinters\RbPrintersServices\RbPrinters.Api.Contracts\obj\Debug\netcoreapp2.1\RbPrinters.Api.Contracts.dll
 E:\Project\RbPrinters\RbPrintersServices\RbPrinters.Api.Contracts\obj\Debug\netcoreapp2.1\RbPrinters.Api.Contracts.pdb
+F:\Projects\RbPrinters\RbPrintersServices\RbPrinters.Api.Contracts\bin\Debug\netcoreapp2.1\RbPrinters.Api.Contracts.deps.json
+F:\Projects\RbPrinters\RbPrintersServices\RbPrinters.Api.Contracts\bin\Debug\netcoreapp2.1\RbPrinters.Api.Contracts.dll
+F:\Projects\RbPrinters\RbPrintersServices\RbPrinters.Api.Contracts\bin\Debug\netcoreapp2.1\RbPrinters.Api.Contracts.pdb
+F:\Projects\RbPrinters\RbPrintersServices\RbPrinters.Api.Contracts\bin\Debug\netcoreapp2.1\RbPrinters.Api.Common.dll
+F:\Projects\RbPrinters\RbPrintersServices\RbPrinters.Api.Contracts\bin\Debug\netcoreapp2.1\RbPrinters.Api.Interfaces.dll
+F:\Projects\RbPrinters\RbPrintersServices\RbPrinters.Api.Contracts\bin\Debug\netcoreapp2.1\RbPrinters.Api.Common.pdb
+F:\Projects\RbPrinters\RbPrintersServices\RbPrinters.Api.Contracts\bin\Debug\netcoreapp2.1\RbPrinters.Api.Interfaces.pdb
+F:\Projects\RbPrinters\RbPrintersServices\RbPrinters.Api.Contracts\obj\Debug\netcoreapp2.1\RbPrinters.Api.Contracts.csprojResolveAssemblyReference.cache
+F:\Projects\RbPrinters\RbPrintersServices\RbPrinters.Api.Contracts\obj\Debug\netcoreapp2.1\RbPrinters.Api.Contracts.csproj.CoreCompileInputs.cache
+F:\Projects\RbPrinters\RbPrintersServices\RbPrinters.Api.Contracts\obj\Debug\netcoreapp2.1\RbPrinters.Api.Contracts.AssemblyInfoInputs.cache
+F:\Projects\RbPrinters\RbPrintersServices\RbPrinters.Api.Contracts\obj\Debug\netcoreapp2.1\RbPrinters.Api.Contracts.AssemblyInfo.cs
+F:\Projects\RbPrinters\RbPrintersServices\RbPrinters.Api.Contracts\obj\Debug\netcoreapp2.1\RbPrinters.Api.Contracts.csproj.CopyComplete
+F:\Projects\RbPrinters\RbPrintersServices\RbPrinters.Api.Contracts\obj\Debug\netcoreapp2.1\RbPrinters.Api.Contracts.dll
+F:\Projects\RbPrinters\RbPrintersServices\RbPrinters.Api.Contracts\obj\Debug\netcoreapp2.1\RbPrinters.Api.Contracts.pdb

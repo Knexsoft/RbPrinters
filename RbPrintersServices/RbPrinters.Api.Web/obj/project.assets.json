@@ -761,13 +761,13 @@
           "lib/netstandard2.0/Microsoft.AspNetCore.HttpsPolicy.dll": {}
         }
       },
-      "Microsoft.AspNetCore.Identity/2.1.1": {
+      "Microsoft.AspNetCore.Identity/2.1.2": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Authentication.Cookies": "2.1.1",
           "Microsoft.AspNetCore.Cryptography.KeyDerivation": "2.1.1",
           "Microsoft.AspNetCore.Hosting.Abstractions": "2.1.1",
-          "Microsoft.Extensions.Identity.Core": "2.1.1"
+          "Microsoft.Extensions.Identity.Core": "2.1.2"
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.AspNetCore.Identity.dll": {}
@@ -2097,7 +2097,7 @@
           "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {}
         }
       },
-      "Microsoft.Extensions.Identity.Core/2.1.1": {
+      "Microsoft.Extensions.Identity.Core/2.1.2": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Cryptography.KeyDerivation": "2.1.1",
@@ -2624,13 +2624,13 @@
           "lib/netstandard1.0/_._": {}
         }
       },
-      "Microsoft.VisualStudio.Web.BrowserLink/2.1.0-preview1-final": {
+      "Microsoft.VisualStudio.Web.BrowserLink/2.1.1": {
         "type": "package",
         "dependencies": {
-          "Microsoft.AspNetCore.Hosting.Abstractions": "2.1.0-preview1-final",
-          "Microsoft.AspNetCore.Http.Abstractions": "2.1.0-preview1-final",
-          "Microsoft.AspNetCore.Http.Extensions": "2.1.0-preview1-final",
-          "Microsoft.Extensions.FileProviders.Physical": "2.1.0-preview1-final"
+          "Microsoft.AspNetCore.Hosting.Abstractions": "2.1.1",
+          "Microsoft.AspNetCore.Http.Abstractions": "2.1.1",
+          "Microsoft.AspNetCore.Http.Extensions": "2.1.1",
+          "Microsoft.Extensions.FileProviders.Physical": "2.1.1"
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.VisualStudio.Web.BrowserLink.dll": {}
@@ -5292,15 +5292,15 @@
         "microsoft.aspnetcore.httpspolicy.nuspec"
       ]
     },
-    "Microsoft.AspNetCore.Identity/2.1.1": {
-      "sha512": "bTnsTimS6tFwZXDWPgexZo9gzr2jLuCEHRV8ib8gjMzR6TzQ/3/tl5lxP72Db446PJl1s479Qj1rnflQc6+PSw==",
+    "Microsoft.AspNetCore.Identity/2.1.2": {
+      "sha512": "CenL5JCP/DKAHtzQDIJj747LXqcScB5Ky2BEBM0L7yHUXerBk7MSsNoQSQLTKepkkRLNxgbF4CPx3SHTToaHeA==",
       "type": "package",
-      "path": "microsoft.aspnetcore.identity/2.1.1",
+      "path": "microsoft.aspnetcore.identity/2.1.2",
       "files": [
         ".signature.p7s",
         "lib/netstandard2.0/Microsoft.AspNetCore.Identity.dll",
         "lib/netstandard2.0/Microsoft.AspNetCore.Identity.xml",
-        "microsoft.aspnetcore.identity.2.1.1.nupkg.sha512",
+        "microsoft.aspnetcore.identity.2.1.2.nupkg.sha512",
         "microsoft.aspnetcore.identity.nuspec"
       ]
     },
@@ -6557,15 +6557,15 @@
         "microsoft.extensions.http.nuspec"
       ]
     },
-    "Microsoft.Extensions.Identity.Core/2.1.1": {
-      "sha512": "Ob9ms69b2qhQhi3SMNhE3SPsCIWhyC4e3IZWSRWxWXwfVLcOfrjaC3qJDPiTOE6Gs7QB/A7jM16i86v6TZ2g5A==",
+    "Microsoft.Extensions.Identity.Core/2.1.2": {
+      "sha512": "XnmvEFQLHKTjpVAN0FcrfLkdOnLVfKF2OjGxZWSficTBniBpIb6W+TyCV1SCKAkybWwE4W1f9bbAwdHyvaGc4A==",
       "type": "package",
-      "path": "microsoft.extensions.identity.core/2.1.1",
+      "path": "microsoft.extensions.identity.core/2.1.2",
       "files": [
         ".signature.p7s",
         "lib/netstandard2.0/Microsoft.Extensions.Identity.Core.dll",
         "lib/netstandard2.0/Microsoft.Extensions.Identity.Core.xml",
-        "microsoft.extensions.identity.core.2.1.1.nupkg.sha512",
+        "microsoft.extensions.identity.core.2.1.2.nupkg.sha512",
         "microsoft.extensions.identity.core.nuspec"
       ]
     },
@@ -7202,14 +7202,15 @@
         "version.txt"
       ]
     },
-    "Microsoft.VisualStudio.Web.BrowserLink/2.1.0-preview1-final": {
-      "sha512": "cN01ohsPD/NUyUmdH8p/NVNkHncloEJU9ykhZTKwWO+B4rK175EtGNGmU1RDramPIaQVQV6ljT2XhjlYaUHcjQ==",
+    "Microsoft.VisualStudio.Web.BrowserLink/2.1.1": {
+      "sha512": "6mQC24ZyX1hsTB4PISXmMmq1iUykP9asVl3btWm8WB88KT7EWc/Kq4L5jVnMnWsCoMhaBah47ohO1ve4W9S0Ew==",
       "type": "package",
-      "path": "microsoft.visualstudio.web.browserlink/2.1.0-preview1-final",
+      "path": "microsoft.visualstudio.web.browserlink/2.1.1",
       "files": [
+        ".signature.p7s",
         "lib/netstandard2.0/Microsoft.VisualStudio.Web.BrowserLink.dll",
         "lib/netstandard2.0/Microsoft.VisualStudio.Web.BrowserLink.xml",
-        "microsoft.visualstudio.web.browserlink.2.1.0-preview1-final.nupkg.sha512",
+        "microsoft.visualstudio.web.browserlink.2.1.1.nupkg.sha512",
         "microsoft.visualstudio.web.browserlink.nuspec"
       ]
     },
@@ -12541,8 +12542,10 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
       "Microsoft.AspNetCore.App >= 2.1.1",
+      "Microsoft.AspNetCore.Cors >= 2.1.1",
+      "Microsoft.AspNetCore.Identity >= 2.1.2",
       "Microsoft.NETCore.App >= 2.1.0",
-      "Microsoft.VisualStudio.Web.BrowserLink >= 2.1.0-preview1-final",
+      "Microsoft.VisualStudio.Web.BrowserLink >= 2.1.1",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.1.1",
       "RbPrinters.Api.BLL >= 1.0.0",
       "RbPrinters.Api.DAL >= 1.0.0",
@@ -12551,23 +12554,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\MADAN CHOUDHARY\\.nuget\\packages\\": {},
+    "C:\\Users\\kanhaiya\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Project\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.Web\\RbPrinters.Api.Web.csproj",
+      "projectUniqueName": "F:\\Projects\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.Web\\RbPrinters.Api.Web.csproj",
       "projectName": "RbPrinters.Api.Web",
-      "projectPath": "E:\\Project\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.Web\\RbPrinters.Api.Web.csproj",
-      "packagesPath": "C:\\Users\\MADAN CHOUDHARY\\.nuget\\packages\\",
-      "outputPath": "E:\\Project\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.Web\\obj\\",
+      "projectPath": "F:\\Projects\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.Web\\RbPrinters.Api.Web.csproj",
+      "packagesPath": "C:\\Users\\kanhaiya\\.nuget\\packages\\",
+      "outputPath": "F:\\Projects\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\MADAN CHOUDHARY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kanhaiya\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -12580,17 +12583,17 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "E:\\Project\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.BLL\\RbPrinters.Api.BLL.csproj": {
-              "projectPath": "E:\\Project\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.BLL\\RbPrinters.Api.BLL.csproj"
+            "F:\\Projects\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.BLL\\RbPrinters.Api.BLL.csproj": {
+              "projectPath": "F:\\Projects\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.BLL\\RbPrinters.Api.BLL.csproj"
             },
-            "E:\\Project\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.DAL\\RbPrinters.Api.DAL.csproj": {
-              "projectPath": "E:\\Project\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.DAL\\RbPrinters.Api.DAL.csproj"
+            "F:\\Projects\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.DAL\\RbPrinters.Api.DAL.csproj": {
+              "projectPath": "F:\\Projects\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.DAL\\RbPrinters.Api.DAL.csproj"
             },
-            "E:\\Project\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.Repositories\\RbPrinters.Api.Repositories.csproj": {
-              "projectPath": "E:\\Project\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.Repositories\\RbPrinters.Api.Repositories.csproj"
+            "F:\\Projects\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.Repositories\\RbPrinters.Api.Repositories.csproj": {
+              "projectPath": "F:\\Projects\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.Repositories\\RbPrinters.Api.Repositories.csproj"
             },
-            "E:\\Project\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.Services\\RbPrinters.Api.Services.csproj": {
-              "projectPath": "E:\\Project\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.Services\\RbPrinters.Api.Services.csproj"
+            "F:\\Projects\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.Services\\RbPrinters.Api.Services.csproj": {
+              "projectPath": "F:\\Projects\\RbPrinters\\RbPrintersServices\\RbPrinters.Api.Services\\RbPrinters.Api.Services.csproj"
             }
           }
         }
@@ -12610,6 +12613,14 @@
             "version": "[2.1.1, )",
             "autoReferenced": true
           },
+          "Microsoft.AspNetCore.Cors": {
+            "target": "Package",
+            "version": "[2.1.1, )"
+          },
+          "Microsoft.AspNetCore.Identity": {
+            "target": "Package",
+            "version": "[2.1.2, )"
+          },
           "Microsoft.NETCore.App": {
             "target": "Package",
             "version": "[2.1.0, )",
@@ -12617,7 +12628,7 @@
           },
           "Microsoft.VisualStudio.Web.BrowserLink": {
             "target": "Package",
-            "version": "[2.1.0-preview1-final, )"
+            "version": "[2.1.1, )"
           },
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",

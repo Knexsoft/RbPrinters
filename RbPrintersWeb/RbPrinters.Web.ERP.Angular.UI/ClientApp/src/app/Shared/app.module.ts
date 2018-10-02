@@ -4,6 +4,7 @@ import { FormsModule } from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
 import { RouterModule } from '@angular/router';
 import { AngularFontAwesomeModule } from 'angular-font-awesome';
+import { CommonModule } from '@angular/common';
 
 import { AppComponent } from './app.component';
 import { routing } from './app.routing';
@@ -14,6 +15,7 @@ import { DashboardComponent } from '../Dashboard/dashboard.component';
 import { AppSidebarComponent } from '../_layout/app-sidebar/app-sidebar.component';
 import { AppFooterCpmponent } from '../_layout/app-footer/app-footer.component';
 import { ServicesWeddingCardComponent } from '../Services/WeddingCard/Services.WeddingCard.Component';
+import { UserService } from './Services/User.Service';
 
 @NgModule({
   declarations: [
@@ -29,11 +31,12 @@ import { ServicesWeddingCardComponent } from '../Services/WeddingCard/Services.W
   imports: [
     BrowserModule.withServerTransition({ appId: 'ng-cli-universal' }),
     HttpClientModule,
+    CommonModule,
     AngularFontAwesomeModule,
     FormsModule,
     routing
   ],
-  providers: [],
+  providers: [UserService],
   bootstrap: [AppComponent],
 })
 export class AppModule { }

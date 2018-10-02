@@ -25,9 +25,9 @@
 
   <ItemGroup>
     <None Remove="ClientApp\src\app\Dashboard\dashboard.component.ts" />
+    <None Remove="ClientApp\src\app\Shared\Services\User.Service.ts" />
     <None Remove="ClientApp\src\app\Login\login.component.ts" />
-    <None Remove="ClientApp\src\app\Pages\home\home.component.ts" />
-    <None Remove="ClientApp\src\app\Products\WeddingCard\Products.WeddingCard.Component.ts" />
+    <None Remove="ClientApp\src\app\Services\WeddingCard\Services.WeddingCard.Component.ts" />
     <None Remove="ClientApp\src\app\_layout\app-footer\app-footer.component.ts" />
     <None Remove="ClientApp\src\app\_layout\app-header\app-header.component.ts" />
     <None Remove="ClientApp\src\app\Shared\app.routing.ts" />
@@ -35,14 +35,17 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="ClientApp\src\app\App.Services\" />
+    <Folder Include="ClientApp\src\app\PurchaseOrder\" />
+    <Folder Include="ClientApp\src\app\User\" />
     <Folder Include="ClientApp\src\services\" />
   </ItemGroup>
 
   <ItemGroup>
     <TypeScriptCompile Include="ClientApp\src\app\Dashboard\dashboard.component.ts" />
+    <TypeScriptCompile Include="ClientApp\src\app\Shared\Services\User.Service.ts" />
     <TypeScriptCompile Include="ClientApp\src\app\Login\login.component.ts" />
-    <TypeScriptCompile Include="ClientApp\src\app\Pages\home\home.component.ts" />
-    <TypeScriptCompile Include="ClientApp\src\app\Products\WeddingCard\Products.WeddingCard.Component.ts" />
+    <TypeScriptCompile Include="ClientApp\src\app\Services\WeddingCard\Services.WeddingCard.Component.ts" />
     <TypeScriptCompile Include="ClientApp\src\app\_layout\app-footer\app-footer.component.ts" />
     <TypeScriptCompile Include="ClientApp\src\app\_layout\app-header\app-header.component.ts" />
     <TypeScriptCompile Include="ClientApp\src\app\Shared\app.routing.ts" />
